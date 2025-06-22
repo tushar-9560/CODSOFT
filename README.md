@@ -45,7 +45,7 @@
 ---
 
 ## 🔗 Let's Connect:
-- 📧 tushar@example.com *(replace with your real email)*
+- 📧 tusharthakur1290@gmail.com
 - 🔗 [LinkedIn Profile](https://www.linkedin.com) *(replace with your real LinkedIn link)*
 
 ---
