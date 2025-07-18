@@ -12,18 +12,18 @@
 - **Skills Used:** Data Cleaning, Logistic Regression, Accuracy Evaluation, Data Visualization
 - **Tools:** Python, Pandas, Seaborn, Matplotlib, scikit-learn
 - **Files:** 
-  - `Titanic_Code_Tushar.ipynb`
-  - `Titanic_Report_Tushar.pdf`
+  - `Titanic Survival Prediction_Code_Tushar.ipynb`
+  - `Titanic Survival Prediction_Report_Tushar.pdf`
 
 ---
 
-### ✅ Task 2: IMDB Movie Rating Prediction
-- **Objective:** Predict the rating of Indian movies using regression techniques.
-- **Skills Used:** Feature Engineering, Regression Models, Data Analysis
-- **Tools:** Python, Pandas, Linear Regression
+### ✅ Task 2: Sales Prediction
+- **Objective:** Predict sales revenue based on advertising spend and other business matrics  using regression techniques.
+- **Skills Used:** Data Cleaning, Exploratory Data Analysis (EDA), Regression Modeling.
+- **Tools:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Files:** 
-  - `IMDB_Code_Tushar.ipynb`
-  - `IMDB_Report_Tushar.pdf`
+  - `Sales Prediction_Code_Tushar.ipynb`
+  - `Sales Prediction_Report_Tushar.pdf`
 
 ---
 
@@ -32,8 +32,8 @@
 - **Skills Used:** Classification Algorithms (KNN, Decision Tree), Accuracy Metrics
 - **Tools:** Python, scikit-learn, Seaborn
 - **Files:** 
-  - `Iris_Code_Tushar.ipynb`
-  - `Iris_Report_Tushar.pdf`
+  - `Iris Classification_Code_Tushar.ipynb`
+  - `Iris Classification_Report_Tushar.pdf`
 
 ---
 
